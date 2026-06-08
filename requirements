@@ -1,0 +1,6 @@
+Streamlit
+numpy
+scikit-learn
+sentence-transformers
+pandas
+sklearn.metrics.pairwise
